@@ -65,3 +65,7 @@ Cooperative Source is based on, and strives to live by, the [Rochdale Principles
 * Education, training, and information
 * Cooperation among cooperatives
 * Concern for community
+
+## I have other questions or ideas!
+
+Come join us over on our [Discussions Board](https://github.com/cooperativesource/about/discussions)! Tell us what you think and help us shape what this new ecosystem can become!
